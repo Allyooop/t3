@@ -7292,21 +7292,27 @@ hr {
 
 /* line 1, /home/codio/workspace/teethree/source/stylesheets/_buttons.scss */
 .btn-edms {
-  border-top: 1px solid #38609F;
-  border-bottom: 1px solid #38609F;
+  border: 2px solid #38609F;
   color: #38609F; }
+  /* line 6, /home/codio/workspace/teethree/source/stylesheets/_buttons.scss */
+  .btn-edms:hover {
+    color: #2d5eaa; }
 
-/* line 8, /home/codio/workspace/teethree/source/stylesheets/_buttons.scss */
+/* line 11, /home/codio/workspace/teethree/source/stylesheets/_buttons.scss */
 .btn-epr {
-  border-top: 1px solid #b3d236;
-  border-bottom: 1px solid #b3d236;
+  border: 2px solid #b3d236;
   color: #b3d236; }
+  /* line 16, /home/codio/workspace/teethree/source/stylesheets/_buttons.scss */
+  .btn-epr:hover {
+    color: #bade2a; }
 
-/* line 15, /home/codio/workspace/teethree/source/stylesheets/_buttons.scss */
+/* line 21, /home/codio/workspace/teethree/source/stylesheets/_buttons.scss */
 .btn-cp {
-  border-top: 1px solid #f0ad4e;
-  border-bottom: 1px solid #f0ad4e;
+  border: 2px solid #f0ad4e;
   color: #f0ad4e; }
+  /* line 26, /home/codio/workspace/teethree/source/stylesheets/_buttons.scss */
+  .btn-cp:hover {
+    color: #faaf44; }
 
 /* line 2, /home/codio/workspace/teethree/source/stylesheets/_images.scss */
 .pad-right {
