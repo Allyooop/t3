@@ -1904,8 +1904,8 @@ pre {
 .container {
   margin-right: auto;
   margin-left: auto;
-  padding-left: 15px;
-  padding-right: 15px; }
+  padding-left: 5px;
+  padding-right: 5px; }
   /* line 14, /home/codio/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/bootstrap-sass-3.3.3/assets/stylesheets/bootstrap/mixins/_clearfix.scss */
   .container:before, .container:after {
     content: " ";
@@ -1916,22 +1916,22 @@ pre {
   @media (min-width: 768px) {
     /* line 10, /home/codio/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/bootstrap-sass-3.3.3/assets/stylesheets/bootstrap/_grid.scss */
     .container {
-      width: 750px; } }
+      width: 730px; } }
   @media (min-width: 992px) {
     /* line 10, /home/codio/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/bootstrap-sass-3.3.3/assets/stylesheets/bootstrap/_grid.scss */
     .container {
-      width: 970px; } }
+      width: 950px; } }
   @media (min-width: 1200px) {
     /* line 10, /home/codio/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/bootstrap-sass-3.3.3/assets/stylesheets/bootstrap/_grid.scss */
     .container {
-      width: 1170px; } }
+      width: 1150px; } }
 
 /* line 30, /home/codio/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/bootstrap-sass-3.3.3/assets/stylesheets/bootstrap/_grid.scss */
 .container-fluid {
   margin-right: auto;
   margin-left: auto;
-  padding-left: 15px;
-  padding-right: 15px; }
+  padding-left: 5px;
+  padding-right: 5px; }
   /* line 14, /home/codio/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/bootstrap-sass-3.3.3/assets/stylesheets/bootstrap/mixins/_clearfix.scss */
   .container-fluid:before, .container-fluid:after {
     content: " ";
@@ -1942,8 +1942,8 @@ pre {
 
 /* line 39, /home/codio/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/bootstrap-sass-3.3.3/assets/stylesheets/bootstrap/_grid.scss */
 .row {
-  margin-left: -15px;
-  margin-right: -15px; }
+  margin-left: -5px;
+  margin-right: -5px; }
   /* line 14, /home/codio/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/bootstrap-sass-3.3.3/assets/stylesheets/bootstrap/mixins/_clearfix.scss */
   .row:before, .row:after {
     content: " ";
@@ -1956,8 +1956,8 @@ pre {
 .col-xs-1, .col-sm-1, .col-md-1, .col-lg-1, .col-xs-2, .col-sm-2, .col-md-2, .col-lg-2, .col-xs-3, .col-sm-3, .col-md-3, .col-lg-3, .col-xs-4, .col-sm-4, .col-md-4, .col-lg-4, .col-xs-5, .col-sm-5, .col-md-5, .col-lg-5, .col-xs-6, .col-sm-6, .col-md-6, .col-lg-6, .col-xs-7, .col-sm-7, .col-md-7, .col-lg-7, .col-xs-8, .col-sm-8, .col-md-8, .col-lg-8, .col-xs-9, .col-sm-9, .col-md-9, .col-lg-9, .col-xs-10, .col-sm-10, .col-md-10, .col-lg-10, .col-xs-11, .col-sm-11, .col-md-11, .col-lg-11, .col-xs-12, .col-sm-12, .col-md-12, .col-lg-12 {
   position: relative;
   min-height: 1px;
-  padding-left: 15px;
-  padding-right: 15px; }
+  padding-left: 5px;
+  padding-right: 5px; }
 
 /* line 27, /home/codio/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/bootstrap-sass-3.3.3/assets/stylesheets/bootstrap/mixins/_grid-framework.scss */
 .col-xs-1, .col-xs-2, .col-xs-3, .col-xs-4, .col-xs-5, .col-xs-6, .col-xs-7, .col-xs-8, .col-xs-9, .col-xs-10, .col-xs-11, .col-xs-12 {
@@ -3566,8 +3566,8 @@ select[multiple].input-lg,
   min-height: 34px; }
 /* line 530, /home/codio/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/bootstrap-sass-3.3.3/assets/stylesheets/bootstrap/_forms.scss */
 .form-horizontal .form-group {
-  margin-left: -15px;
-  margin-right: -15px; }
+  margin-left: -5px;
+  margin-right: -5px; }
   /* line 14, /home/codio/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/bootstrap-sass-3.3.3/assets/stylesheets/bootstrap/mixins/_clearfix.scss */
   .form-horizontal .form-group:before, .form-horizontal .form-group:after {
     content: " ";
@@ -3583,7 +3583,7 @@ select[multiple].input-lg,
     padding-top: 9px; } }
 /* line 548, /home/codio/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/bootstrap-sass-3.3.3/assets/stylesheets/bootstrap/_forms.scss */
 .form-horizontal .has-feedback .form-control-feedback {
-  right: 15px; }
+  right: 5px; }
 @media (min-width: 768px) {
   /* line 558, /home/codio/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/bootstrap-sass-3.3.3/assets/stylesheets/bootstrap/_forms.scss */
   .form-horizontal .form-group-lg .control-label {
@@ -4528,8 +4528,8 @@ tbody.collapse.in {
 /* line 50, /home/codio/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/bootstrap-sass-3.3.3/assets/stylesheets/bootstrap/_navbar.scss */
 .navbar-collapse {
   overflow-x: visible;
-  padding-right: 15px;
-  padding-left: 15px;
+  padding-right: 5px;
+  padding-left: 5px;
   border-top: 1px solid transparent;
   box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.1);
   -webkit-overflow-scrolling: touch; }
@@ -4579,8 +4579,8 @@ tbody.collapse.in {
 .container > .navbar-collapse,
 .container-fluid > .navbar-header,
 .container-fluid > .navbar-collapse {
-  margin-right: -15px;
-  margin-left: -15px; }
+  margin-right: -5px;
+  margin-left: -5px; }
   @media (min-width: 768px) {
     /* line 109, /home/codio/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/bootstrap-sass-3.3.3/assets/stylesheets/bootstrap/_navbar.scss */
     .container > .navbar-header,
@@ -4626,7 +4626,7 @@ tbody.collapse.in {
 /* line 164, /home/codio/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/bootstrap-sass-3.3.3/assets/stylesheets/bootstrap/_navbar.scss */
 .navbar-brand {
   float: left;
-  padding: 20px 15px;
+  padding: 20px 5px;
   font-size: 23px;
   line-height: 25px;
   height: 65px; }
@@ -4639,13 +4639,13 @@ tbody.collapse.in {
   @media (min-width: 768px) {
     /* line 181, /home/codio/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/bootstrap-sass-3.3.3/assets/stylesheets/bootstrap/_navbar.scss */
     .navbar > .container .navbar-brand, .navbar > .container-fluid .navbar-brand {
-      margin-left: -15px; } }
+      margin-left: -5px; } }
 
 /* line 194, /home/codio/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/bootstrap-sass-3.3.3/assets/stylesheets/bootstrap/_navbar.scss */
 .navbar-toggle {
   position: relative;
   float: right;
-  margin-right: 15px;
+  margin-right: 5px;
   padding: 9px 10px;
   margin-top: 15.5px;
   margin-bottom: 15.5px;
@@ -4672,7 +4672,7 @@ tbody.collapse.in {
 
 /* line 233, /home/codio/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/bootstrap-sass-3.3.3/assets/stylesheets/bootstrap/_navbar.scss */
 .navbar-nav {
-  margin: 10px -15px; }
+  margin: 10px -5px; }
   /* line 236, /home/codio/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/bootstrap-sass-3.3.3/assets/stylesheets/bootstrap/_navbar.scss */
   .navbar-nav > li > a {
     padding-top: 10px;
@@ -4713,9 +4713,9 @@ tbody.collapse.in {
 
 /* line 287, /home/codio/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/bootstrap-sass-3.3.3/assets/stylesheets/bootstrap/_navbar.scss */
 .navbar-form {
-  margin-left: -15px;
-  margin-right: -15px;
-  padding: 10px 15px;
+  margin-left: -5px;
+  margin-right: -5px;
+  padding: 10px 5px;
   border-top: 1px solid transparent;
   border-bottom: 1px solid transparent;
   -webkit-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.1), 0 1px 0 rgba(255, 255, 255, 0.1);
@@ -4825,8 +4825,8 @@ tbody.collapse.in {
     /* line 360, /home/codio/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/bootstrap-sass-3.3.3/assets/stylesheets/bootstrap/_navbar.scss */
     .navbar-text {
       float: left;
-      margin-left: 15px;
-      margin-right: 15px; } }
+      margin-left: 5px;
+      margin-right: 5px; } }
 
 @media (min-width: 768px) {
   /* line 380, /home/codio/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/bootstrap-sass-3.3.3/assets/stylesheets/bootstrap/_navbar.scss */
@@ -4836,7 +4836,7 @@ tbody.collapse.in {
   /* line 383, /home/codio/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/bootstrap-sass-3.3.3/assets/stylesheets/bootstrap/_navbar.scss */
   .navbar-right {
     float: right !important;
-    margin-right: -15px; }
+    margin-right: -5px; }
     /* line 387, /home/codio/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/bootstrap-sass-3.3.3/assets/stylesheets/bootstrap/_navbar.scss */
     .navbar-right ~ .navbar-right {
       margin-right: 0; } }
@@ -7081,92 +7081,93 @@ button.close {
     margin: 0; } }
 /* line 60, /home/codio/workspace/teethree/source/stylesheets/_bootswatch.scss */
 .btn {
-  font-family: "Raleway", "Helvetica Neue", Helvetica, Arial, sans-serif; }
+  font-family: "Raleway", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  border-radius: 0px; }
 
-/* line 70, /home/codio/workspace/teethree/source/stylesheets/_bootswatch.scss */
+/* line 71, /home/codio/workspace/teethree/source/stylesheets/_bootswatch.scss */
 legend {
   font-family: "Raleway", "Helvetica Neue", Helvetica, Arial, sans-serif; }
 
-/* line 74, /home/codio/workspace/teethree/source/stylesheets/_bootswatch.scss */
+/* line 75, /home/codio/workspace/teethree/source/stylesheets/_bootswatch.scss */
 .input-group-addon {
   font-family: "Raleway", "Helvetica Neue", Helvetica, Arial, sans-serif; }
 
-/* line 81, /home/codio/workspace/teethree/source/stylesheets/_bootswatch.scss */
+/* line 82, /home/codio/workspace/teethree/source/stylesheets/_bootswatch.scss */
 .nav .open > a,
 .nav .open > a:hover,
 .nav .open > a:focus {
   border: 1px solid #ddd; }
 
-/* line 88, /home/codio/workspace/teethree/source/stylesheets/_bootswatch.scss */
+/* line 89, /home/codio/workspace/teethree/source/stylesheets/_bootswatch.scss */
 .pagination {
   font-family: "Raleway", "Helvetica Neue", Helvetica, Arial, sans-serif; }
-  /* line 92, /home/codio/workspace/teethree/source/stylesheets/_bootswatch.scss */
+  /* line 93, /home/codio/workspace/teethree/source/stylesheets/_bootswatch.scss */
   .pagination-lg > li > a, .pagination-lg > li > span {
     padding: 14px 24px; }
 
-/* line 98, /home/codio/workspace/teethree/source/stylesheets/_bootswatch.scss */
+/* line 99, /home/codio/workspace/teethree/source/stylesheets/_bootswatch.scss */
 .pager {
   font-family: "Raleway", "Helvetica Neue", Helvetica, Arial, sans-serif; }
-  /* line 102, /home/codio/workspace/teethree/source/stylesheets/_bootswatch.scss */
+  /* line 103, /home/codio/workspace/teethree/source/stylesheets/_bootswatch.scss */
   .pager a {
     color: #333333; }
-  /* line 106, /home/codio/workspace/teethree/source/stylesheets/_bootswatch.scss */
+  /* line 107, /home/codio/workspace/teethree/source/stylesheets/_bootswatch.scss */
   .pager a:hover {
     border-color: transparent;
     color: #fff; }
-  /* line 111, /home/codio/workspace/teethree/source/stylesheets/_bootswatch.scss */
+  /* line 112, /home/codio/workspace/teethree/source/stylesheets/_bootswatch.scss */
   .pager .disabled a {
     border-color: #ddd; }
 
-/* line 118, /home/codio/workspace/teethree/source/stylesheets/_bootswatch.scss */
+/* line 119, /home/codio/workspace/teethree/source/stylesheets/_bootswatch.scss */
 .close {
   color: #fff;
   text-decoration: none;
   text-shadow: none;
   opacity: 0.4; }
-  /* line 124, /home/codio/workspace/teethree/source/stylesheets/_bootswatch.scss */
+  /* line 125, /home/codio/workspace/teethree/source/stylesheets/_bootswatch.scss */
   .close:hover, .close:focus {
     color: #fff;
     opacity: 1; }
 
-/* line 132, /home/codio/workspace/teethree/source/stylesheets/_bootswatch.scss */
+/* line 133, /home/codio/workspace/teethree/source/stylesheets/_bootswatch.scss */
 .alert .alert-link {
   color: #fff;
   text-decoration: underline; }
 
-/* line 138, /home/codio/workspace/teethree/source/stylesheets/_bootswatch.scss */
+/* line 139, /home/codio/workspace/teethree/source/stylesheets/_bootswatch.scss */
 .label {
   font-family: "Raleway", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: normal; }
-  /* line 142, /home/codio/workspace/teethree/source/stylesheets/_bootswatch.scss */
+  /* line 143, /home/codio/workspace/teethree/source/stylesheets/_bootswatch.scss */
   .label-default {
     border: 1px solid #ddd;
     color: #333333; }
 
-/* line 149, /home/codio/workspace/teethree/source/stylesheets/_bootswatch.scss */
+/* line 150, /home/codio/workspace/teethree/source/stylesheets/_bootswatch.scss */
 .badge {
   padding: 1px 7px 5px;
   vertical-align: 2px;
   font-family: "Raleway", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: normal; }
 
-/* line 160, /home/codio/workspace/teethree/source/stylesheets/_bootswatch.scss */
+/* line 161, /home/codio/workspace/teethree/source/stylesheets/_bootswatch.scss */
 .panel {
   -webkit-box-shadow: none;
   box-shadow: none; }
-  /* line 164, /home/codio/workspace/teethree/source/stylesheets/_bootswatch.scss */
+  /* line 165, /home/codio/workspace/teethree/source/stylesheets/_bootswatch.scss */
   .panel-default .close {
     color: #333333; }
-  /* line 174, /home/codio/workspace/teethree/source/stylesheets/_bootswatch.scss */
+  /* line 175, /home/codio/workspace/teethree/source/stylesheets/_bootswatch.scss */
   .panel-primary .panel-heading, .panel-success .panel-heading, .panel-warning .panel-heading, .panel-danger .panel-heading, .panel-info .panel-heading {
     color: #fff; }
-  /* line 178, /home/codio/workspace/teethree/source/stylesheets/_bootswatch.scss */
+  /* line 179, /home/codio/workspace/teethree/source/stylesheets/_bootswatch.scss */
   .panel-primary .panel-body, .panel-success .panel-body, .panel-warning .panel-body, .panel-danger .panel-body, .panel-info .panel-body {
     border: 1px solid #ddd;
     border-top-width: 0;
     border-radius: 0 0 4px 4px; }
 
-/* line 187, /home/codio/workspace/teethree/source/stylesheets/_bootswatch.scss */
+/* line 188, /home/codio/workspace/teethree/source/stylesheets/_bootswatch.scss */
 .modal .close {
   color: #333333; }
 
@@ -7237,58 +7238,73 @@ footer {
 .video-banner {
   margin: 15px 0 15px 0; }
 
-/* line 43, /home/codio/workspace/teethree/source/stylesheets/_sections.scss */
+/* line 44, /home/codio/workspace/teethree/source/stylesheets/_sections.scss */
 .news-banner {
   margin: 15px 0 15px 0; }
 
-/* line 48, /home/codio/workspace/teethree/source/stylesheets/_sections.scss */
+/* line 50, /home/codio/workspace/teethree/source/stylesheets/_sections.scss */
+.site-redirect {
+  margin-bottom: 5px; }
+
+/* line 57, /home/codio/workspace/teethree/source/stylesheets/_sections.scss */
 .well {
   background-color: #fff;
   border: 0px;
   border-radius: 0px; }
 
 /* line 1, /home/codio/workspace/teethree/source/stylesheets/_typography.scss */
+p {
+  font-family: "Raleway", "Helvetica Neue", Helvetica, Arial, sans-serif; }
+
+/* line 6, /home/codio/workspace/teethree/source/stylesheets/_typography.scss */
+h1, h2, h3, h4, h5, h6 {
+  color: #b3d236; }
+
+/* line 11, /home/codio/workspace/teethree/source/stylesheets/_typography.scss */
+.breadcrumb {
+  background-color: inherit; }
+
+/* line 15, /home/codio/workspace/teethree/source/stylesheets/_typography.scss */
+.font-color-secondary {
+  color: #38609F; }
+
+/* line 20, /home/codio/workspace/teethree/source/stylesheets/_typography.scss */
+body {
+  font-family: "Raleway", "Helvetica Neue", Helvetica, Arial, sans-serif; }
+
+/* line 25, /home/codio/workspace/teethree/source/stylesheets/_typography.scss */
+.lead {
+  font-size: 24px; }
+
+/* line 30, /home/codio/workspace/teethree/source/stylesheets/_typography.scss */
+header.page-title {
+  margin-left: 15px; }
+
+/* line 34, /home/codio/workspace/teethree/source/stylesheets/_typography.scss */
+.team-lead {
+  margin-bottom: 2px; }
+
+/* line 39, /home/codio/workspace/teethree/source/stylesheets/_typography.scss */
+hr {
+  border-color: #b3d236;
+  border-width: 5px; }
+
+/* line 46, /home/codio/workspace/teethree/source/stylesheets/_typography.scss */
 .t3-font {
   font-family: Impact, Charcoal, sans-serif;
   text-transform: uppercase;
   letter-spacing: 2px; }
 
-/* line 8, /home/codio/workspace/teethree/source/stylesheets/_typography.scss */
-p {
-  font-family: "Raleway", "Helvetica Neue", Helvetica, Arial, sans-serif; }
-
-/* line 13, /home/codio/workspace/teethree/source/stylesheets/_typography.scss */
-h1, h2, h3, h4, h5, h6 {
-  color: #b3d236; }
-
-/* line 18, /home/codio/workspace/teethree/source/stylesheets/_typography.scss */
-.breadcrumb {
-  background-color: inherit; }
-
-/* line 22, /home/codio/workspace/teethree/source/stylesheets/_typography.scss */
-.font-color-secondary {
-  color: #38609F; }
-
-/* line 27, /home/codio/workspace/teethree/source/stylesheets/_typography.scss */
-body {
-  font-family: "Raleway", "Helvetica Neue", Helvetica, Arial, sans-serif; }
-
-/* line 32, /home/codio/workspace/teethree/source/stylesheets/_typography.scss */
-.lead {
-  font-size: 24px; }
-
-/* line 37, /home/codio/workspace/teethree/source/stylesheets/_typography.scss */
-header.page-title {
-  margin-left: 15px; }
-
-/* line 41, /home/codio/workspace/teethree/source/stylesheets/_typography.scss */
-.team-lead {
-  margin-bottom: 2px; }
-
-/* line 46, /home/codio/workspace/teethree/source/stylesheets/_typography.scss */
-hr {
-  border-color: #b3d236;
-  border-width: 5px; }
+/* line 53, /home/codio/workspace/teethree/source/stylesheets/_typography.scss */
+.alert {
+  border-radius: 0;
+  margin-bottom: 20px; }
+  /* line 58, /home/codio/workspace/teethree/source/stylesheets/_typography.scss */
+  .alert a {
+    color: #fff; }
+    /* line 61, /home/codio/workspace/teethree/source/stylesheets/_typography.scss */
+    .alert a:hover {
+      color: #fff; }
 
 /* line 1, /home/codio/workspace/teethree/source/stylesheets/_buttons.scss */
 .btn-edms {
@@ -7321,3 +7337,8 @@ hr {
 /* line 6, /home/codio/workspace/teethree/source/stylesheets/_images.scss */
 .pad-left {
   padding-left: 5px; }
+
+/* line 10, /home/codio/workspace/teethree/source/stylesheets/_images.scss */
+.img-feature {
+  width: 150px;
+  height: 150px; }
