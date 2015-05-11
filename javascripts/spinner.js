@@ -1,0 +1,1 @@
+jquery(document).on("page:fetch",function(){jquery("html").css("cursor","progress")}),jquery(document).on("page:change",function(){jquery("html").css("cursor","auto")});
